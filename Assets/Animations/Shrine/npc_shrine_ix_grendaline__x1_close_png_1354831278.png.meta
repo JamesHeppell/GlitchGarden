@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 579305b6eecc64f95a9222d78d2834c3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_shrine_ix_grendaline__x1_close_png_1354831278_0
+    21300002: npc_shrine_ix_grendaline__x1_close_png_1354831278_1
+    21300004: npc_shrine_ix_grendaline__x1_close_png_1354831278_2
+    21300006: npc_shrine_ix_grendaline__x1_close_png_1354831278_3
+    21300008: npc_shrine_ix_grendaline__x1_close_png_1354831278_4
+    21300010: npc_shrine_ix_grendaline__x1_close_png_1354831278_5
+    21300012: npc_shrine_ix_grendaline__x1_close_png_1354831278_6
+    21300014: npc_shrine_ix_grendaline__x1_close_png_1354831278_7
+    21300016: npc_shrine_ix_grendaline__x1_close_png_1354831278_8
+    21300018: npc_shrine_ix_grendaline__x1_close_png_1354831278_9
+    21300020: npc_shrine_ix_grendaline__x1_close_png_1354831278_10
+    21300022: npc_shrine_ix_grendaline__x1_close_png_1354831278_11
+    21300024: npc_shrine_ix_grendaline__x1_close_png_1354831278_12
+    21300026: npc_shrine_ix_grendaline__x1_close_png_1354831278_13
+    21300028: npc_shrine_ix_grendaline__x1_close_png_1354831278_14
+    21300030: npc_shrine_ix_grendaline__x1_close_png_1354831278_15
+    21300032: npc_shrine_ix_grendaline__x1_close_png_1354831278_16
+    21300034: npc_shrine_ix_grendaline__x1_close_png_1354831278_17
+    21300036: npc_shrine_ix_grendaline__x1_close_png_1354831278_18
+    21300038: npc_shrine_ix_grendaline__x1_close_png_1354831278_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 648
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 648
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 648
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 648
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 432
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 216
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_shrine_ix_grendaline__x1_close_png_1354831278_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

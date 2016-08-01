@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 391cc582522884139afb3d0714a1730b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: potion_tree_poison__x1_tool_animation_png_1354836878_0
+    21300002: potion_tree_poison__x1_tool_animation_png_1354836878_1
+    21300004: potion_tree_poison__x1_tool_animation_png_1354836878_2
+    21300006: potion_tree_poison__x1_tool_animation_png_1354836878_3
+    21300008: potion_tree_poison__x1_tool_animation_png_1354836878_4
+    21300010: potion_tree_poison__x1_tool_animation_png_1354836878_5
+    21300012: potion_tree_poison__x1_tool_animation_png_1354836878_6
+    21300014: potion_tree_poison__x1_tool_animation_png_1354836878_7
+    21300016: potion_tree_poison__x1_tool_animation_png_1354836878_8
+    21300018: potion_tree_poison__x1_tool_animation_png_1354836878_9
+    21300020: potion_tree_poison__x1_tool_animation_png_1354836878_10
+    21300022: potion_tree_poison__x1_tool_animation_png_1354836878_11
+    21300024: potion_tree_poison__x1_tool_animation_png_1354836878_12
+    21300026: potion_tree_poison__x1_tool_animation_png_1354836878_13
+    21300028: potion_tree_poison__x1_tool_animation_png_1354836878_14
+    21300030: potion_tree_poison__x1_tool_animation_png_1354836878_15
+    21300032: potion_tree_poison__x1_tool_animation_png_1354836878_16
+    21300034: potion_tree_poison__x1_tool_animation_png_1354836878_17
+    21300036: potion_tree_poison__x1_tool_animation_png_1354836878_18
+    21300038: potion_tree_poison__x1_tool_animation_png_1354836878_19
+    21300040: potion_tree_poison__x1_tool_animation_png_1354836878_20
+    21300042: potion_tree_poison__x1_tool_animation_png_1354836878_21
+    21300044: potion_tree_poison__x1_tool_animation_png_1354836878_22
+    21300046: potion_tree_poison__x1_tool_animation_png_1354836878_23
+    21300048: potion_tree_poison__x1_tool_animation_png_1354836878_24
+    21300050: potion_tree_poison__x1_tool_animation_png_1354836878_25
+    21300052: potion_tree_poison__x1_tool_animation_png_1354836878_26
+    21300054: potion_tree_poison__x1_tool_animation_png_1354836878_27
+    21300056: potion_tree_poison__x1_tool_animation_png_1354836878_28
+    21300058: potion_tree_poison__x1_tool_animation_png_1354836878_29
+    21300060: potion_tree_poison__x1_tool_animation_png_1354836878_30
+    21300062: potion_tree_poison__x1_tool_animation_png_1354836878_31
+    21300064: potion_tree_poison__x1_tool_animation_png_1354836878_32
+    21300066: potion_tree_poison__x1_tool_animation_png_1354836878_33
+    21300068: potion_tree_poison__x1_tool_animation_png_1354836878_34
+    21300070: potion_tree_poison__x1_tool_animation_png_1354836878_35
+    21300072: potion_tree_poison__x1_tool_animation_png_1354836878_36
+    21300074: potion_tree_poison__x1_tool_animation_png_1354836878_37
+    21300076: potion_tree_poison__x1_tool_animation_png_1354836878_38
+    21300078: potion_tree_poison__x1_tool_animation_png_1354836878_39
+    21300080: potion_tree_poison__x1_tool_animation_png_1354836878_40
+    21300082: potion_tree_poison__x1_tool_animation_png_1354836878_41
+    21300084: potion_tree_poison__x1_tool_animation_png_1354836878_42
+    21300086: potion_tree_poison__x1_tool_animation_png_1354836878_43
+    21300088: potion_tree_poison__x1_tool_animation_png_1354836878_44
+    21300090: potion_tree_poison__x1_tool_animation_png_1354836878_45
+    21300092: potion_tree_poison__x1_tool_animation_png_1354836878_46
+    21300094: potion_tree_poison__x1_tool_animation_png_1354836878_47
+    21300096: potion_tree_poison__x1_tool_animation_png_1354836878_48
+    21300098: potion_tree_poison__x1_tool_animation_png_1354836878_49
+    21300100: potion_tree_poison__x1_tool_animation_png_1354836878_50
+    21300102: potion_tree_poison__x1_tool_animation_png_1354836878_51
+    21300104: potion_tree_poison__x1_tool_animation_png_1354836878_52
+    21300106: potion_tree_poison__x1_tool_animation_png_1354836878_53
+    21300108: potion_tree_poison__x1_tool_animation_png_1354836878_54
+    21300110: potion_tree_poison__x1_tool_animation_png_1354836878_55
+    21300112: potion_tree_poison__x1_tool_animation_png_1354836878_56
+    21300114: potion_tree_poison__x1_tool_animation_png_1354836878_57
+    21300116: potion_tree_poison__x1_tool_animation_png_1354836878_58
+    21300118: potion_tree_poison__x1_tool_animation_png_1354836878_59
+    21300120: potion_tree_poison__x1_tool_animation_png_1354836878_60
+    21300122: potion_tree_poison__x1_tool_animation_png_1354836878_61
+    21300124: potion_tree_poison__x1_tool_animation_png_1354836878_62
+    21300126: potion_tree_poison__x1_tool_animation_png_1354836878_63
+    21300128: potion_tree_poison__x1_tool_animation_png_1354836878_64
+    21300130: potion_tree_poison__x1_tool_animation_png_1354836878_65
+    21300132: potion_tree_poison__x1_tool_animation_png_1354836878_66
+    21300134: potion_tree_poison__x1_tool_animation_png_1354836878_67
+    21300136: potion_tree_poison__x1_tool_animation_png_1354836878_68
+    21300138: potion_tree_poison__x1_tool_animation_png_1354836878_69
+    21300140: potion_tree_poison__x1_tool_animation_png_1354836878_70
+    21300142: potion_tree_poison__x1_tool_animation_png_1354836878_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 618
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 515
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 412
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 309
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 206
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_61
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 103
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: potion_tree_poison__x1_tool_animation_png_1354836878_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

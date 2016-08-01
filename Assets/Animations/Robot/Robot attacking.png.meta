@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 3f2b08e62ef4441c9a1686301808b5a1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_crafty_bot__x1_talk_png_1354839520_0
+    21300002: npc_crafty_bot__x1_talk_png_1354839520_1
+    21300004: npc_crafty_bot__x1_talk_png_1354839520_2
+    21300006: npc_crafty_bot__x1_talk_png_1354839520_3
+    21300008: npc_crafty_bot__x1_talk_png_1354839520_4
+    21300010: npc_crafty_bot__x1_talk_png_1354839520_5
+    21300012: npc_crafty_bot__x1_talk_png_1354839520_6
+    21300014: npc_crafty_bot__x1_talk_png_1354839520_7
+    21300016: npc_crafty_bot__x1_talk_png_1354839520_8
+    21300018: npc_crafty_bot__x1_talk_png_1354839520_9
+    21300020: npc_crafty_bot__x1_talk_png_1354839520_10
+    21300022: npc_crafty_bot__x1_talk_png_1354839520_11
+    21300024: npc_crafty_bot__x1_talk_png_1354839520_12
+    21300026: npc_crafty_bot__x1_talk_png_1354839520_13
+    21300028: npc_crafty_bot__x1_talk_png_1354839520_14
+    21300030: npc_crafty_bot__x1_talk_png_1354839520_15
+    21300032: npc_crafty_bot__x1_talk_png_1354839520_16
+    21300034: npc_crafty_bot__x1_talk_png_1354839520_17
+    21300036: npc_crafty_bot__x1_talk_png_1354839520_18
+    21300038: npc_crafty_bot__x1_talk_png_1354839520_19
+    21300040: npc_crafty_bot__x1_talk_png_1354839520_20
+    21300042: npc_crafty_bot__x1_talk_png_1354839520_21
+    21300044: npc_crafty_bot__x1_talk_png_1354839520_22
+    21300046: npc_crafty_bot__x1_talk_png_1354839520_23
+    21300048: npc_crafty_bot__x1_talk_png_1354839520_24
+    21300050: npc_crafty_bot__x1_talk_png_1354839520_25
+    21300052: npc_crafty_bot__x1_talk_png_1354839520_26
+    21300054: npc_crafty_bot__x1_talk_png_1354839520_27
+    21300056: npc_crafty_bot__x1_talk_png_1354839520_28
+    21300058: npc_crafty_bot__x1_talk_png_1354839520_29
+    21300060: npc_crafty_bot__x1_talk_png_1354839520_30
+    21300062: npc_crafty_bot__x1_talk_png_1354839520_31
+    21300064: npc_crafty_bot__x1_talk_png_1354839520_32
+    21300066: npc_crafty_bot__x1_talk_png_1354839520_33
+    21300068: npc_crafty_bot__x1_talk_png_1354839520_34
+    21300070: npc_crafty_bot__x1_talk_png_1354839520_35
+    21300072: npc_crafty_bot__x1_talk_png_1354839520_36
+    21300074: npc_crafty_bot__x1_talk_png_1354839520_37
+    21300076: npc_crafty_bot__x1_talk_png_1354839520_38
+    21300078: npc_crafty_bot__x1_talk_png_1354839520_39
+    21300080: npc_crafty_bot__x1_talk_png_1354839520_40
+    21300082: npc_crafty_bot__x1_talk_png_1354839520_41
+    21300084: npc_crafty_bot__x1_talk_png_1354839520_42
+    21300086: npc_crafty_bot__x1_talk_png_1354839520_43
+    21300088: npc_crafty_bot__x1_talk_png_1354839520_44
+    21300090: npc_crafty_bot__x1_talk_png_1354839520_45
+    21300092: npc_crafty_bot__x1_talk_png_1354839520_46
+    21300094: npc_crafty_bot__x1_talk_png_1354839520_47
+    21300096: npc_crafty_bot__x1_talk_png_1354839520_48
+    21300098: npc_crafty_bot__x1_talk_png_1354839520_49
+    21300100: npc_crafty_bot__x1_talk_png_1354839520_50
+    21300102: npc_crafty_bot__x1_talk_png_1354839520_51
+    21300104: npc_crafty_bot__x1_talk_png_1354839520_52
+    21300106: npc_crafty_bot__x1_talk_png_1354839520_53
+    21300108: npc_crafty_bot__x1_talk_png_1354839520_54
+    21300110: npc_crafty_bot__x1_talk_png_1354839520_55
+    21300112: npc_crafty_bot__x1_talk_png_1354839520_56
+    21300114: npc_crafty_bot__x1_talk_png_1354839520_57
+    21300116: npc_crafty_bot__x1_talk_png_1354839520_58
+    21300118: npc_crafty_bot__x1_talk_png_1354839520_59
+    21300120: npc_crafty_bot__x1_talk_png_1354839520_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_crafty_bot__x1_talk_png_1354839520_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_26
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_34
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_39
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_41
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_46
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_47
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_48
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_52
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_54
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_55
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_talk_png_1354839520_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

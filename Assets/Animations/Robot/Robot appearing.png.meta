@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: a34a38ac0ce9e48e7945a3bad61b34c9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_crafty_bot__x1_collapse_png_1354839501_0
+    21300002: npc_crafty_bot__x1_collapse_png_1354839501_1
+    21300004: npc_crafty_bot__x1_collapse_png_1354839501_2
+    21300006: npc_crafty_bot__x1_collapse_png_1354839501_3
+    21300008: npc_crafty_bot__x1_collapse_png_1354839501_4
+    21300010: npc_crafty_bot__x1_collapse_png_1354839501_5
+    21300012: npc_crafty_bot__x1_collapse_png_1354839501_6
+    21300014: npc_crafty_bot__x1_collapse_png_1354839501_7
+    21300016: npc_crafty_bot__x1_collapse_png_1354839501_8
+    21300018: npc_crafty_bot__x1_collapse_png_1354839501_9
+    21300020: npc_crafty_bot__x1_collapse_png_1354839501_10
+    21300022: npc_crafty_bot__x1_collapse_png_1354839501_11
+    21300024: npc_crafty_bot__x1_collapse_png_1354839501_12
+    21300026: npc_crafty_bot__x1_collapse_png_1354839501_13
+    21300028: npc_crafty_bot__x1_collapse_png_1354839501_14
+    21300030: npc_crafty_bot__x1_collapse_png_1354839501_15
+    21300032: npc_crafty_bot__x1_collapse_png_1354839501_16
+    21300034: npc_crafty_bot__x1_collapse_png_1354839501_17
+    21300036: npc_crafty_bot__x1_collapse_png_1354839501_18
+    21300038: npc_crafty_bot__x1_collapse_png_1354839501_19
+    21300040: npc_crafty_bot__x1_collapse_png_1354839501_20
+    21300042: npc_crafty_bot__x1_collapse_png_1354839501_21
+    21300044: npc_crafty_bot__x1_collapse_png_1354839501_22
+    21300046: npc_crafty_bot__x1_collapse_png_1354839501_23
+    21300048: npc_crafty_bot__x1_collapse_png_1354839501_24
+    21300050: npc_crafty_bot__x1_collapse_png_1354839501_25
+    21300052: npc_crafty_bot__x1_collapse_png_1354839501_26
+    21300054: npc_crafty_bot__x1_collapse_png_1354839501_27
+    21300056: npc_crafty_bot__x1_collapse_png_1354839501_28
+    21300058: npc_crafty_bot__x1_collapse_png_1354839501_29
+    21300060: npc_crafty_bot__x1_collapse_png_1354839501_30
+    21300062: npc_crafty_bot__x1_collapse_png_1354839501_31
+    21300064: npc_crafty_bot__x1_collapse_png_1354839501_32
+    21300066: npc_crafty_bot__x1_collapse_png_1354839501_33
+    21300068: npc_crafty_bot__x1_collapse_png_1354839501_34
+    21300070: npc_crafty_bot__x1_collapse_png_1354839501_35
+    21300072: npc_crafty_bot__x1_collapse_png_1354839501_36
+    21300074: npc_crafty_bot__x1_collapse_png_1354839501_37
+    21300076: npc_crafty_bot__x1_collapse_png_1354839501_38
+    21300078: npc_crafty_bot__x1_collapse_png_1354839501_39
+    21300080: npc_crafty_bot__x1_collapse_png_1354839501_40
+    21300082: npc_crafty_bot__x1_collapse_png_1354839501_41
+    21300084: npc_crafty_bot__x1_collapse_png_1354839501_42
+    21300086: npc_crafty_bot__x1_collapse_png_1354839501_43
+    21300088: npc_crafty_bot__x1_collapse_png_1354839501_44
+    21300090: npc_crafty_bot__x1_collapse_png_1354839501_45
+    21300092: npc_crafty_bot__x1_collapse_png_1354839501_46
+    21300094: npc_crafty_bot__x1_collapse_png_1354839501_47
+    21300096: npc_crafty_bot__x1_collapse_png_1354839501_48
+    21300098: npc_crafty_bot__x1_collapse_png_1354839501_49
+    21300100: npc_crafty_bot__x1_collapse_png_1354839501_50
+    21300102: npc_crafty_bot__x1_collapse_png_1354839501_51
+    21300104: npc_crafty_bot__x1_collapse_png_1354839501_52
+    21300106: npc_crafty_bot__x1_collapse_png_1354839501_53
+    21300108: npc_crafty_bot__x1_collapse_png_1354839501_54
+    21300110: npc_crafty_bot__x1_collapse_png_1354839501_55
+    21300112: npc_crafty_bot__x1_collapse_png_1354839501_56
+    21300114: npc_crafty_bot__x1_collapse_png_1354839501_57
+    21300116: npc_crafty_bot__x1_collapse_png_1354839501_58
+    21300118: npc_crafty_bot__x1_collapse_png_1354839501_59
+    21300120: npc_crafty_bot__x1_collapse_png_1354839501_60
+    21300122: npc_crafty_bot__x1_collapse_png_1354839501_61
+    21300124: npc_crafty_bot__x1_collapse_png_1354839501_62
+    21300126: npc_crafty_bot__x1_collapse_png_1354839501_63
+    21300128: npc_crafty_bot__x1_collapse_png_1354839501_64
+    21300130: npc_crafty_bot__x1_collapse_png_1354839501_65
+    21300132: npc_crafty_bot__x1_collapse_png_1354839501_66
+    21300134: npc_crafty_bot__x1_collapse_png_1354839501_67
+    21300136: npc_crafty_bot__x1_collapse_png_1354839501_68
+    21300138: npc_crafty_bot__x1_collapse_png_1354839501_69
+    21300140: npc_crafty_bot__x1_collapse_png_1354839501_70
+    21300142: npc_crafty_bot__x1_collapse_png_1354839501_71
+    21300144: npc_crafty_bot__x1_collapse_png_1354839501_72
+    21300146: npc_crafty_bot__x1_collapse_png_1354839501_73
+    21300148: npc_crafty_bot__x1_collapse_png_1354839501_74
+    21300150: npc_crafty_bot__x1_collapse_png_1354839501_75
+    21300152: npc_crafty_bot__x1_collapse_png_1354839501_76
+    21300154: npc_crafty_bot__x1_collapse_png_1354839501_77
+    21300156: npc_crafty_bot__x1_collapse_png_1354839501_78
+    21300158: npc_crafty_bot__x1_collapse_png_1354839501_79
+    21300160: npc_crafty_bot__x1_collapse_png_1354839501_80
+    21300162: npc_crafty_bot__x1_collapse_png_1354839501_81
+    21300164: npc_crafty_bot__x1_collapse_png_1354839501_82
+    21300166: npc_crafty_bot__x1_collapse_png_1354839501_83
+    21300168: npc_crafty_bot__x1_collapse_png_1354839501_84
+    21300170: npc_crafty_bot__x1_collapse_png_1354839501_85
+    21300172: npc_crafty_bot__x1_collapse_png_1354839501_86
+    21300174: npc_crafty_bot__x1_collapse_png_1354839501_87
+    21300176: npc_crafty_bot__x1_collapse_png_1354839501_88
+    21300178: npc_crafty_bot__x1_collapse_png_1354839501_89
+    21300180: npc_crafty_bot__x1_collapse_png_1354839501_90
+    21300182: npc_crafty_bot__x1_collapse_png_1354839501_91
+    21300184: npc_crafty_bot__x1_collapse_png_1354839501_92
+    21300186: npc_crafty_bot__x1_collapse_png_1354839501_93
+    21300188: npc_crafty_bot__x1_collapse_png_1354839501_94
+    21300190: npc_crafty_bot__x1_collapse_png_1354839501_95
+    21300192: npc_crafty_bot__x1_collapse_png_1354839501_96
+    21300194: npc_crafty_bot__x1_collapse_png_1354839501_97
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1820
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1680
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1540
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_26
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1400
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_34
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1260
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_39
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_41
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1120
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_46
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_47
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_48
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 980
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_52
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_54
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_55
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 840
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_61
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 700
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_65
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_67
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_68
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_69
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 560
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_72
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_73
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_74
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_75
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_76
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 420
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_80
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_81
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_82
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_83
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 280
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_87
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_88
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_89
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_90
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 140
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_95
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_96
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crafty_bot__x1_collapse_png_1354839501_97
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
